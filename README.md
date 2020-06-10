@@ -1,2 +1,0 @@
-# cajita
-Created with CodeSandbox
